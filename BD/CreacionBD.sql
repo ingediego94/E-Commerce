@@ -1,4 +1,5 @@
 /* https://www.youtube.com/watch?v=16N5OhcrLws&list=PLx2nia7-PgoDptcrh4k4ZStjpVLZbS7rU&ab_channel=CodigoEstudiante */
+
 /*CREAR LA BD*/
 CREATE DATABASE DBCARRITO
 
@@ -13,7 +14,7 @@ GO
 /*Crear tabla de CATEGORIA*/
 CREATE TABLE CATEGORIA(
 IdCategoria int primary key identity,
-Descripçion varchar(100),
+Descripcion varchar(100),
 Activo bit default 1,
 FechaRegistro datetime default getdate()
 );
@@ -140,3 +141,52 @@ IdDepartamento varchar(2) NOT NULL
 );
 
 GO
+
+
+
+
+/*-------------------------*/
+/* https://www.youtube.com/watch?v=zWBCDJueNJc&list=PLx2nia7-PgoDptcrh4k4ZStjpVLZbS7rU&index=4&ab_channel=CodigoEstudiante */
+
+/*INSERCION DE ALGUNOS DATOS*/
+
+/*INSERCION DATOS TABLA USUARIO*/
+SELECT *
+	FROM USUARIO;
+
+INSERT INTO USUARIO(Nombres, Apellidos, Correo, Clave) 
+	VALUES ('test nombre', 'test apellido', 'test@example.com', 'ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae');
+/*No se ingresan los tres campos del final de esta tabla, porque ya traen valores por defecto*/
+/*En esta pagina se puede encriptar la contrasena:*/
+/*https://emn178.github.io/online-tools/sha256.html*/
+
+
+
+/*INSERCION DATOS TABLA CATEGORIA*/
+SELECT *
+	FROM CATEGORIA;
+
+
+/*No se ingresan los datos de IdCategoria, Activo y FechaRegistro, porque se llenan por defecto*/
+INSERT INTO CATEGORIA(Descripcion) VALUES 
+	('Tecnologia'),
+	('Muebles'),
+	('Dormitorio'),
+	('Deportes');
+
+
+
+/*INSERCION DATOS TABLA MARCA*/
+SELECT *
+	FROM MARCA;
+
+	/*No se ingresan los datos de IdMarca, Activo y FechaRegistro porque se llenan por defecto automaticamente*/
+INSERT INTO MARCA(Descripcion) VALUES
+	('SONYTE'),
+	('HPTE'),
+	('LGTE'),
+	('HYUNDAITE'),
+	('CANONTE'),
+	('ROBERTA ALLENTE');
+
+
