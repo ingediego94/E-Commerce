@@ -17,17 +17,27 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
+
+                <!--Aqui podemos modificar los enlaces de la pagina.
+                    estos se basan un metodo ActionResult. El primer texto es lo que deseamos
+                    que se vea. El 2do texto es el nombre del metodo que invocamos el cual
+                    viene del HomeController. El 3ero corresponde al Home de HomeController-->
                 <ul class="navbar-nav flex-grow-1">
-                    <li>@Html.ActionLink("Inicio", "Index", "Home", new { area = "" }, new { @class = "nav-link" })</li>
-                    <li>@Html.ActionLink("Acerca de", "About", "Home", new { area = "" }, new { @class = "nav-link" })</li>
-                    <li>@Html.ActionLink("Contacto", "Contact", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("Inicio Pagina", "Index", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("Acerca de test", "About", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("Contacto mirame", "Contact", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("Pagina de pruebas", "PaginaTest", "Home", new { area = "" }, new { @class = "nav-link" })</li>
                 </ul>
             </div>
         </div>
     </nav>
     <div class="container body-content">
-        @RenderBody()
+
+        <!--Aqui se inserta el contenido intermedio (variable) de la master page-->
+        @RenderBody() 
         <hr />
+
+        <!--Aqui se inserta el footer de la master page (no variable)-->
         <footer>
             <p>&copy; @DateTime.Now.Year - Mi aplicación ASP.NET</p>
         </footer>
