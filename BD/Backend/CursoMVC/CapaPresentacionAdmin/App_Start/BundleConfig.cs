@@ -8,8 +8,14 @@ namespace CapaPresentacionAdmin
         // Para obtener más información sobre las uniones, visite https://go.microsoft.com/fwlink/?LinkId=301862
         public static void RegisterBundles(BundleCollection bundles)
         {
-            bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
+            bundles.Add(new Bundle("~/bundles/jquery").Include(
                         "~/Scripts/jquery-{version}.js"));
+
+            //Nuevo bundle.     un bunlde nos ayuda a realizar las referencias.
+            //Aqui tambien creamos el bundle para referenciar complem fontawesome
+            bundles.Add(new Bundle("~/bundles/complementos").Include(
+                        "~/Scripts/fontawesome/all.min.js",
+                        "~/Scripts/scripts.js"));
 
             //bundles.Add(new ScriptBundle("~/bundles/jqueryval").Include(
             //            "~/Scripts/jquery.validate*"));
@@ -19,12 +25,11 @@ namespace CapaPresentacionAdmin
             //bundles.Add(new ScriptBundle("~/bundles/modernizr").Include(
             //            "~/Scripts/modernizr-*"));
 
-            bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
-                      "~/Scripts/bootstrap.bundle.js"));
+            bundles.Add(new Bundle("~/bundles/bootstrap").Include(
+                      "~/Scripts/bootstrap.bundle.js")); //modificar esta con bootstrap.bundle.js
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
-                      "~/Content/bootstrap.css",
-                      "~/Content/site.css"));
+                      "~/Content/Site.css"));
         }
     }
 }
