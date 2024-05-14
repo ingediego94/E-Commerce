@@ -116,7 +116,7 @@ GO
 /*Crear tabla de DEPARTAMENTO*/
 CREATE TABLE DEPARTAMENTO(
 IdDepartamento varchar(2) NOT NULL,
-Descripcion varchar(45) NOT NULL,
+Descripcion varchar(45) NOT NULL
 );
 
 GO

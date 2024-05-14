@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "G:\\DIEGO\\Ing_Diego\\Programacion\\PROYECTOS_PROGRAMACION\\E-Commerce\\BD\\Backend\\CursoMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB660CEB-966E-4CC6-8FCE-62C49543A50B}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|g:\\diego\\ing_diego\\programacion\\proyectos_programacion\\e-commerce\\bd\\backend\\cursomvc\\capapresentacionadmin\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB660CEB-966E-4CC6-8FCE-62C49543A50B}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AB660CEB-966E-4CC6-8FCE-62C49543A50B}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|g:\\diego\\ing_diego\\programacion\\proyectos_programacion\\e-commerce\\bd\\backend\\cursomvc\\capapresentacionadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB660CEB-966E-4CC6-8FCE-62C49543A50B}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BundleConfig.cs",
-              "DocumentMoniker": "G:\\DIEGO\\Ing_Diego\\Programacion\\PROYECTOS_PROGRAMACION\\E-Commerce\\BD\\Backend\\CursoMVC\\CapaPresentacionAdmin\\App_Start\\BundleConfig.cs",
-              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\App_Start\\BundleConfig.cs",
-              "ToolTip": "G:\\DIEGO\\Ing_Diego\\Programacion\\PROYECTOS_PROGRAMACION\\E-Commerce\\BD\\Backend\\CursoMVC\\CapaPresentacionAdmin\\App_Start\\BundleConfig.cs",
-              "RelativeToolTip": "CapaPresentacionAdmin\\App_Start\\BundleConfig.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAACMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T01:03:15.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "G:\\DIEGO\\Ing_Diego\\Programacion\\PROYECTOS_PROGRAMACION\\E-Commerce\\BD\\Backend\\CursoMVC\\CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "G:\\DIEGO\\Ing_Diego\\Programacion\\PROYECTOS_PROGRAMACION\\E-Commerce\\BD\\Backend\\CursoMVC\\CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAF8AAAAAAAAAAAAAAJMAAAAAAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-12T22:15:15.948Z",
+              "WhenOpened": "2024-05-14T01:33:36.299Z",
               "EditorCaption": ""
             }
           ]
