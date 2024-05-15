@@ -44,13 +44,19 @@
                 <div class="sb-sidenav-menu">
                     <div class="nav">
                         <div class="sb-sidenav-menu-heading">Core</div>
-                        <a class="nav-link" href="index.html">
+                        <!--Eliminarmos la href a index.html y agregamos otra a esta referencia.
+                            El primer campo de " " lo referencia al metodo que está en el Controller,
+                            y el 2do " " lo referencia a Controlador Home como tal, para que lo encuentre-->
+                        <a class="nav-link" href="@Url.Action("Index","Home")">
                             <div class="sb-nav-link-icon"><i class="fas fa-tachometer-alt"></i></div>
                             Dashboard
                         </a>
                         <!--Agregamos este nuevo dashboard que le cambiamos el nombre a Usuarios, y le cambiamos el nombre de la clase
     de   class="fas fa-tachometer-alt"    a     class="fas fa-users"  para que cambie el icono-->
-                        <a class="nav-link" href="index.html">
+
+                        <!--Lo mismo que hicimos con el href del dashboard lo haremos aqui para 
+                            referenciarlo a Usuarios. -->
+                        <a class="nav-link" href="@Url.Action("Usuarios","Home")">
                             <div class="sb-nav-link-icon"><i class="fas fa-users"></i></div>
                             Usuarios
                         </a>
@@ -62,17 +68,17 @@
                         <div class="sb-sidenav-menu-heading">Mantenimiento</div>
                         @*Agregamos Categorias, Marcas y Productos.*@
                         @*Categorias*@
-                        <a class="nav-link" href="charts.html">
+                        <a class="nav-link" href="@Url.Action("Categoria","Mantenedor")">
                             <div class="sb-nav-link-icon"><i class="fas fa-table"></i></div>
                             Categorias
                         </a>
                         @*Marcas*@
-                        <a class="nav-link" href="tables.html">
+                        <a class="nav-link" href="@Url.Action("Marca","Mantenedor")">
                             <div class="sb-nav-link-icon"><i class="fas fa-bookmark"></i></div>
                             Marca
                         </a>
                         @*Productos*@
-                        <a class="nav-link" href="tables.html">
+                        <a class="nav-link" href="@Url.Action("Producto","Mantenedor")">
                             <div class="sb-nav-link-icon"><i class="fas fa-boxes"></i></div>
                             Productos
                         </a>
