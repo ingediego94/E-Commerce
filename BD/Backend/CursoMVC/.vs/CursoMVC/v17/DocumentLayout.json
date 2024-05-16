@@ -3,15 +3,19 @@
   "WorkspaceRootPath": "G:\\DIEGO\\Ing_Diego\\Programacion\\PROYECTOS_PROGRAMACION\\E-Commerce\\BD\\Backend\\CursoMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AB660CEB-966E-4CC6-8FCE-62C49543A50B}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|g:\\diego\\ing_diego\\programacion\\proyectos_programacion\\e-commerce\\bd\\backend\\cursomvc\\capapresentacionadmin\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AB660CEB-966E-4CC6-8FCE-62C49543A50B}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AB660CEB-966E-4CC6-8FCE-62C49543A50B}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|g:\\diego\\ing_diego\\programacion\\proyectos_programacion\\e-commerce\\bd\\backend\\cursomvc\\capapresentacionadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AB660CEB-966E-4CC6-8FCE-62C49543A50B}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB660CEB-966E-4CC6-8FCE-62C49543A50B}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|g:\\diego\\ing_diego\\programacion\\proyectos_programacion\\e-commerce\\bd\\backend\\cursomvc\\capapresentacionadmin\\controllers\\mantenedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB660CEB-966E-4CC6-8FCE-62C49543A50B}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|G:\\DIEGO\\Ing_Diego\\Programacion\\PROYECTOS_PROGRAMACION\\E-Commerce\\BD\\Backend\\CursoMVC\\capapresentacionadmin\\controllers\\mantenedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB660CEB-966E-4CC6-8FCE-62C49543A50B}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\controllers\\mantenedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB660CEB-966E-4CC6-8FCE-62C49543A50B}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|g:\\diego\\ing_diego\\programacion\\proyectos_programacion\\e-commerce\\bd\\backend\\cursomvc\\capapresentacionadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB660CEB-966E-4CC6-8FCE-62C49543A50B}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|G:\\DIEGO\\Ing_Diego\\Programacion\\PROYECTOS_PROGRAMACION\\E-Commerce\\BD\\Backend\\CursoMVC\\capapresentacionadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB660CEB-966E-4CC6-8FCE-62C49543A50B}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MantenedorController.cs",
               "DocumentMoniker": "G:\\DIEGO\\Ing_Diego\\Programacion\\PROYECTOS_PROGRAMACION\\E-Commerce\\BD\\Backend\\CursoMVC\\CapaPresentacionAdmin\\Controllers\\MantenedorController.cs",
               "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Controllers\\MantenedorController.cs",
@@ -35,25 +39,37 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T03:24:25.749Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "G:\\DIEGO\\Ing_Diego\\Programacion\\PROYECTOS_PROGRAMACION\\E-Commerce\\BD\\Backend\\CursoMVC\\CapaPresentacionAdmin\\Web.config",
+              "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Web.config",
+              "ToolTip": "G:\\DIEGO\\Ing_Diego\\Programacion\\PROYECTOS_PROGRAMACION\\E-Commerce\\BD\\Backend\\CursoMVC\\CapaPresentacionAdmin\\Web.config",
+              "RelativeToolTip": "CapaPresentacionAdmin\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-16T02:28:04.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "G:\\DIEGO\\Ing_Diego\\Programacion\\PROYECTOS_PROGRAMACION\\E-Commerce\\BD\\Backend\\CursoMVC\\CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "G:\\DIEGO\\Ing_Diego\\Programacion\\PROYECTOS_PROGRAMACION\\E-Commerce\\BD\\Backend\\CursoMVC\\CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "CapaPresentacionAdmin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAEcAAABJAAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAEcAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-15T02:59:26.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "G:\\DIEGO\\Ing_Diego\\Programacion\\PROYECTOS_PROGRAMACION\\E-Commerce\\BD\\Backend\\CursoMVC\\CapaPresentacionAdmin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CapaPresentacionAdmin\\Controllers\\HomeController.cs",
@@ -61,8 +77,7 @@
               "RelativeToolTip": "CapaPresentacionAdmin\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T02:33:36.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T02:33:36.118Z"
             }
           ]
         }
