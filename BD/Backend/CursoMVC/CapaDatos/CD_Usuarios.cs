@@ -9,9 +9,12 @@ namespace CapaDatos
     public class CD_Usuarios
     {
 
-        public List<Usuario> Listar<{
+        //Retorna una lista de los usuarios. El metpdo se llama listar.
+        // Esta devolviendo una lista de la clase usuario
+        public List<Usuario> Listar (){
         
-        }>
+
+        }
 
     }
 }

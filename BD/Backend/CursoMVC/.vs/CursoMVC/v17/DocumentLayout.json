@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{CFD34DA3-A76D-4377-91FA-AD88995BA3F2}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFD34DA3-A76D-4377-91FA-AD88995BA3F2}|CapaDatos\\CapaDatos.csproj|g:\\diego\\ing_diego\\programacion\\proyectos_programacion\\e-commerce\\bd\\backend\\cursomvc\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CFD34DA3-A76D-4377-91FA-AD88995BA3F2}|CapaDatos\\CapaDatos.csproj|G:\\DIEGO\\Ing_Diego\\Programacion\\PROYECTOS_PROGRAMACION\\E-Commerce\\BD\\Backend\\CursoMVC\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFD34DA3-A76D-4377-91FA-AD88995BA3F2}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB660CEB-966E-4CC6-8FCE-62C49543A50B}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|g:\\diego\\ing_diego\\programacion\\proyectos_programacion\\e-commerce\\bd\\backend\\cursomvc\\capapresentacionadmin\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{AB660CEB-966E-4CC6-8FCE-62C49543A50B}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|G:\\DIEGO\\Ing_Diego\\Programacion\\PROYECTOS_PROGRAMACION\\E-Commerce\\BD\\Backend\\CursoMVC\\capapresentacionadmin\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{AB660CEB-966E-4CC6-8FCE-62C49543A50B}|CapaPresentacionAdmin\\CapaPresentacionAdmin.csproj|solutionrelative:capapresentacionadmin\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
@@ -47,8 +47,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T03:24:25.749Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -58,7 +57,7 @@
               "RelativeDocumentMoniker": "CapaDatos\\CD_Usuarios.cs",
               "ToolTip": "G:\\DIEGO\\Ing_Diego\\Programacion\\PROYECTOS_PROGRAMACION\\E-Commerce\\BD\\Backend\\CursoMVC\\CapaDatos\\CD_Usuarios.cs",
               "RelativeToolTip": "CapaDatos\\CD_Usuarios.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-17T02:49:17.798Z",
               "EditorCaption": ""
@@ -73,8 +72,7 @@
               "RelativeToolTip": "CapaDatos\\Conexion.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T02:33:20.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-17T02:33:20.476Z"
             },
             {
               "$type": "Document",
