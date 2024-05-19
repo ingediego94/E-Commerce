@@ -1,2 +1,6 @@
 G:\DIEGO\Ing_Diego\Programacion\PROYECTOS_PROGRAMACION\E-Commerce\BD\Backend\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
 G:\DIEGO\Ing_Diego\Programacion\PROYECTOS_PROGRAMACION\E-Commerce\BD\Backend\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+G:\DIEGO\Ing_Diego\Programacion\PROYECTOS_PROGRAMACION\E-Commerce\BD\Backend\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.dll
+G:\DIEGO\Ing_Diego\Programacion\PROYECTOS_PROGRAMACION\E-Commerce\BD\Backend\CursoMVC\CapaEntidad\bin\Debug\CapaEntidad.pdb
+G:\DIEGO\Ing_Diego\Programacion\PROYECTOS_PROGRAMACION\E-Commerce\BD\Backend\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.dll
+G:\DIEGO\Ing_Diego\Programacion\PROYECTOS_PROGRAMACION\E-Commerce\BD\Backend\CursoMVC\CapaEntidad\obj\Debug\CapaEntidad.pdb

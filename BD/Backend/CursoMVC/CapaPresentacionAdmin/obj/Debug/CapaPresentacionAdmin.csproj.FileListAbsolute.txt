@@ -84,3 +84,9 @@ G:\DIEGO\Ing_Diego\Programacion\PROYECTOS_PROGRAMACION\E-Commerce\BD\Backend\Cur
 G:\DIEGO\Ing_Diego\Programacion\PROYECTOS_PROGRAMACION\E-Commerce\BD\Backend\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPres.0D5CB2CD.Up2Date
 G:\DIEGO\Ing_Diego\Programacion\PROYECTOS_PROGRAMACION\E-Commerce\BD\Backend\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.dll
 G:\DIEGO\Ing_Diego\Programacion\PROYECTOS_PROGRAMACION\E-Commerce\BD\Backend\CursoMVC\CapaPresentacionAdmin\obj\Debug\CapaPresentacionAdmin.pdb
+G:\DIEGO\Ing_Diego\Programacion\PROYECTOS_PROGRAMACION\E-Commerce\BD\Backend\CursoMVC\CapaPresentacionAdmin\bin\CapaEntidad.dll
+G:\DIEGO\Ing_Diego\Programacion\PROYECTOS_PROGRAMACION\E-Commerce\BD\Backend\CursoMVC\CapaPresentacionAdmin\bin\CapaNegocio.dll
+G:\DIEGO\Ing_Diego\Programacion\PROYECTOS_PROGRAMACION\E-Commerce\BD\Backend\CursoMVC\CapaPresentacionAdmin\bin\CapaDatos.dll
+G:\DIEGO\Ing_Diego\Programacion\PROYECTOS_PROGRAMACION\E-Commerce\BD\Backend\CursoMVC\CapaPresentacionAdmin\bin\CapaEntidad.pdb
+G:\DIEGO\Ing_Diego\Programacion\PROYECTOS_PROGRAMACION\E-Commerce\BD\Backend\CursoMVC\CapaPresentacionAdmin\bin\CapaNegocio.pdb
+G:\DIEGO\Ing_Diego\Programacion\PROYECTOS_PROGRAMACION\E-Commerce\BD\Backend\CursoMVC\CapaPresentacionAdmin\bin\CapaDatos.pdb

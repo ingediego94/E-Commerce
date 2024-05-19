@@ -1,0 +1,11 @@
+G:\DIEGO\Ing_Diego\Programacion\PROYECTOS_PROGRAMACION\E-Commerce\BD\Backend\CursoMVC\CapaNegocio\bin\Debug\CapaNegocio.dll
+G:\DIEGO\Ing_Diego\Programacion\PROYECTOS_PROGRAMACION\E-Commerce\BD\Backend\CursoMVC\CapaNegocio\bin\Debug\CapaNegocio.pdb
+G:\DIEGO\Ing_Diego\Programacion\PROYECTOS_PROGRAMACION\E-Commerce\BD\Backend\CursoMVC\CapaNegocio\bin\Debug\CapaDatos.dll
+G:\DIEGO\Ing_Diego\Programacion\PROYECTOS_PROGRAMACION\E-Commerce\BD\Backend\CursoMVC\CapaNegocio\bin\Debug\CapaEntidad.dll
+G:\DIEGO\Ing_Diego\Programacion\PROYECTOS_PROGRAMACION\E-Commerce\BD\Backend\CursoMVC\CapaNegocio\bin\Debug\CapaDatos.pdb
+G:\DIEGO\Ing_Diego\Programacion\PROYECTOS_PROGRAMACION\E-Commerce\BD\Backend\CursoMVC\CapaNegocio\bin\Debug\CapaEntidad.pdb
+G:\DIEGO\Ing_Diego\Programacion\PROYECTOS_PROGRAMACION\E-Commerce\BD\Backend\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+G:\DIEGO\Ing_Diego\Programacion\PROYECTOS_PROGRAMACION\E-Commerce\BD\Backend\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+G:\DIEGO\Ing_Diego\Programacion\PROYECTOS_PROGRAMACION\E-Commerce\BD\Backend\CursoMVC\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+G:\DIEGO\Ing_Diego\Programacion\PROYECTOS_PROGRAMACION\E-Commerce\BD\Backend\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.dll
+G:\DIEGO\Ing_Diego\Programacion\PROYECTOS_PROGRAMACION\E-Commerce\BD\Backend\CursoMVC\CapaNegocio\obj\Debug\CapaNegocio.pdb
