@@ -19,5 +19,9 @@ namespace CapaNegocio
             return objCapaDato.Listar();
         }
 
+        //REVISAR POR QUE EN LA EJECUCION DEL PROGRAMA NO SE PUEDEN
+        //VISUALIZAR LOS DATOS DE LA BASE DE DATOS.
+        // CONFIRMAR EL PASO A PASO DE LAS ANTERIORES SESIONES.
+
     }
 }
